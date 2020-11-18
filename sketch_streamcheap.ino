@@ -1,6 +1,6 @@
 /*
- *  Project     'Stream Cheap' Mini Macro Keyboard
- *  @author     David Madison
+ *  Project     'Stream Cheap' Mini Macro Keyboard - ESP32 BLE Version
+ *  @author     David Madison, Michael Linder
  *  @link       partsnotincluded.com/electronics/diy-stream-deck-mini-macro-keyboard
  *  @license    MIT - Copyright (c) 2018 David Madison
  *
