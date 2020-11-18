@@ -15,5 +15,5 @@ Download the ino file and open it with e.g. Arduino IDE. Choose one ESP32 board.
 # How to assign the hotkeys in e.g. OBS?
 Have a look here https://www.partsnotincluded.com/diy-stream-deck-mini-macro-keyboard/.
 
-![StreamCheap](streamcheap.jpg)
+![StreamCheap](https://github.com/achildrenmile/StreamCheapEsp/blob/main/StreamCheap.jpeg)
 
