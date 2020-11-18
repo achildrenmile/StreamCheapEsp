@@ -3,6 +3,7 @@
  *  @author     David Madison, Michael Linder
  *  @link       partsnotincluded.com/electronics/diy-stream-deck-mini-macro-keyboard
  *  @license    MIT - Copyright (c) 2018 David Madison
+ *  @changes    2020 by Michael Linder: as on ESP32 no HID via usb is possible, the BLE keyboard is used
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
